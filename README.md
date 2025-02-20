@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SydX-pages
 - 👀 I’m interested in blues music,guitar,and of course coding
 - 🌱 I’m currently learning C/C++,python,and html
-- 💞️ I’m looking to collaborate on idk
 - BEGINNER
 <!--- 📫 How to reach me ...
 - 😄 Pronouns: 
