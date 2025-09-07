@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SydX-pages
-- 👀 I’m interested in blues music,guitar,and of course coding
+- 👀 I'm a beginner in computer science.
 - 🌱 I’m currently learning C/C++,python,and html
-- BEGINNER
+- Prompt Engineer(?)
 <!--- 📫 How to reach me ...
 - 😄 Pronouns: 
 - ⚡ Fun fact: ...>
